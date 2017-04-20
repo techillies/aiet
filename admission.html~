@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>APPA INSTITUTE OF ENGINEERING AND TECHNOLOGY,GULBARGA</title>
+
+		<meta charset="UTF-8">
+		<meta name="description" content="APPA INSTITUTE OF ENGINEERING AND TECHNOLOGY,GULBARGA ">
+		<meta name="keywords" content="admissions ,hostel facility,air conditioned class rooms, well experienced faculty">
+		<meta name="google-site-verification" content="xNUiYSJbb9j12M9aauES540ZQf1IVbxJqdx83TtfIlI" />
+
+		<link rel="stylesheet" href="css/aiet.css">
+
+		<link rel='stylesheet' type='text/css' href='css/jquery-ui.css'/>
+		<link rel="stylesheet" type="text/css" href="css/style.css">
+		<link rel="shortcut icon" href="images/lord.jpg" type="image/ico" />
+
+		<!-- Example assets -->
+		<link rel="stylesheet" type="text/css" href="css/jcarousel.basic.css">
+		<script type='text/javascript' src="js/jquery-1.11.1.min.js"></script>
+		<script src="js/jquery-ui.min.js"></script>
+		<script type='text/javascript' src='js/script.js'></script>
+		<script type="text/javascript" src="js/jquery.jcarousel.min.js"></script>
+		<script type="text/javascript" src="js/jcarousel.basic.js"></script>
+
+	</head>
+	<body>
+		<div class="top">
+			
+			<div class="logoImage">
+				<img class="logo" src="images/logo.jpg" alt="logo">
+			</div>
+
+			<div class="navigation">
+				<ul class="navbar">
+					<li class="navItems">
+						<a href="index.html" class="navMenu">HOME</a>
+					</li>
+					<li class="navItems">
+						<a href="aboutus.html" class="navMenu">ABOUT US</a>
+					</li>
+					<li class="navItems">
+						<a href="facilities.html" class="navMenu">FACILITIES</a>
+					</li>
+					<li class="navItems" id="courses">
+						<a href="courses.html" class="navMenu">COURSES</a>
+						<!--<ul class="subMenu">
+						<li class="ugpgMenu">undergraduate</li>
+						<li class="ugpgMenu">postgraduate</li>
+						</ul>-->
+					</li>
+					<li class="navItems">
+						<a href="placements.html" class="navMenu">PLACEMENTS</a>
+					</li>
+
+					<li class="navItems">
+						<a href="contactus.html" class="navMenu">CONTACT US</a>
+					</li>
+					<!--<li class="navItems">
+					<a href="facultyLogin.html" class="navMenu">FACULTY LOGIN</a>
+					</li>-->
+					<li class="navItems">
+						<a href="studentsLogin.html" class="navMenu">STUDENTS LOGIN</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<div class="mainBody clearfix">
+			<div class="importantLinks">
+				<ul class="links ">
+					<a href="importantLinks.html">
+					<li class="itemList">
+						Important links
+					</li></a>
+					<a href="rules.html">
+					<li class="itemList">
+						Rules and Regulations
+					</li></a>
+					<a href="admission.html">
+					<li class="itemList">
+						Admission Details
+					</li></a>
+					<a href="library.html">
+					<li class="itemList">
+						Library
+					</li></a>
+					<a href="prayaas.html">
+					<li class="itemList">
+						Events
+					</li></a>
+					<a href="principal.html">
+					<li class="itemList">
+						About Principal
+					</li></a>
+					<a href="faculty.html">
+					<li class="itemList">
+						Faculty
+					</li></a>
+					<a href="fee structure.pdf" target="_blank">
+					<li class="itemList">
+						Fee Structure
+					</li></a>
+				</ul>
+				<div class="results">
+					VTU RESULTS:
+					<form method="post" action="http://results.vtu.ac.in/vitavi.php" target="newtab">
+						USN
+						<br />
+						<input type="text" name="rid" placeholder="eg:3ae10cs021">
+						<br />
+						<input type="submit" name="submit">
+						<input type="reset" value="reset">
+					</form>
+				</div>
+			</div>
+			<div class="bodyImage library">
+				<h3>Admissions Procedure for UG</h3>
+				<p>
+					Eligibility criteria for admission to I Semester B.E.
+				</p>
+				<h4>Academic Eligibility:</h4>
+				<p>
+					1).The Candidate has passed the II-Year Pre-University or XII Std. or equivalent exams with Physics and Mathematics as compulsory subjects, along with one of the following subjects:
+					Chemistry, Bio-Technology, Computer Science, Biology, Electronics & has secured not less than 45% of the aggregate marks in optional subjects with English as one of the languages for admission to Engineering and Technology courses.
+				</p>
+				<p>
+					2).A Candidate shall be eligible for admission to any of the full time degree courses is the holder of a diploma in appropriate branch of engineering awarded by the Board of Technical Education in Karnataka or equivalent qualification and has secured not less than 45% of marks in the final year Diploma examinations. Provided that in respect of Architecture the Candidate must have secured not less than 50% of the marks in the final year Diploma Examination and appeared for Aptitude test (NATA).
+				</p>
+				<h4>Selection Procedure:</h4>
+				<p>
+					1).Generally, admission is done on the basis of performance in the Entrance Exam (CET / COMED-K) for all the B.E. / B.Arch. courses
+				</p>
+				<p>
+					2).Regarding allotment of Management quota seats, please contact our Head Office Telephone No:08472-231192.
+				</p>
+				<h3>Admissions Procedure for PG</h3>
+				<p>
+Academic Eligibility for M.E. / M.Tech / M.Arch courses<br /><br />
+For M.E. / M. Tech / M. Arch courses:<br />
+Option-1: Candidates with valid GATE score.<br />
+Option-2: PGCET-2014 Candidates<br />
+(i) For Full Time M.E. / M. Tech / M. Arch courses: A candidate who has passed
+prescribed qualifying examination or equivalent examination and obtained an
+aggregate minimum of 50% marks taken together in all the subjects in all the years is
+eligible for admission to M.E. / M. Tech / M. Arch courses. 45% of marks in case of
+SC, ST and Category-I candidates.<br />
+(ii) For Part Time M.E. / M. Tech / M. Arch courses: A candidate who has passed
+prescribed qualifying examination or equivalent examination and obtained an
+aggregate minimum of 50% marks taken together in all the subjects in all the years is
+eligible for admission to M.E. / M. Tech / M. Arch / courses. 45% of marks in case of
+SC, ST and Category-I candidates.<br />
+In addition to this candidate after obtaining the complete degree, must have worked
+for not less than three years before the issue of notification for the relevant year, in
+an establishment and must be working in an organization situated within a radial
+distance of 40 km from the institution in which the candidate seeks admission.
+Based on the performance of the candidates in the Common Entrance Test, the rank
+list will be prepared and published for admission to the above courses. Therefore the
+candidates are advised to attend the counselling only if they are having the requisite
+percentage of marks in the qualifying examination. (i.e., should have obtained 50% of
+aggregate marks of all the years of the Degree examination. 45% of aggregate marks
+of all the years in the Degree examination in case of candidates belonging to SC , ST
+and Category-I)
+</p>
+<p>
+<b> NOTE: </b>
+1. Candidates who do not pass in all the subjects in the qualifying examination and
+candidates who do not possess the academic eligibility detailed above for various
+courses, will not be eligible for selection of seats in the respective courses.<br />
+2. The SC / ST / Category-I / OBC eligibility criteria are applicable to persons
+of Karnataka origin who are claiming eligibility for Government seats under
+clauses (a) and (b) and the same is not applicable to non-Karnataka
+students.
+				</p>
+<p>
+<b> <br>Contact Number: </br>
+<br> Dr. Anilkumar Bidve	:	9243219188 </br>
+<br> Dr. Nirdosh Patil	:	9448585961	</br>
+</b>
+</p>
+
+			</div>
+
+			<div class="departments">
+				<h3>DEPARTMENTS</h3>
+				<ul class="links">
+					<a href="electronics.html">
+					<li class="itemList">
+						Electronics&Communications
+					</li></a>
+					<a href="computer.html">
+					<li class="itemList">
+						Computer Science
+					</li></a>
+					<a href="mechanical.html">
+					<li class="itemList">
+						Mechanical Engineering
+					</li></a>
+					<a href="information.html">
+					<li class="itemList">
+						Information Science
+					</li></a>
+					<a href="civil.html">
+					<li class="itemList">
+						Civil
+					</li></a>
+
+				</ul>
+				<div class="admissionMarquee">
+					<a href="ADMISSION FORM BE.pdf" target="_blank">
+					<marquee  behavior="scroll" direction="down" scrollamount="4">
+						Admissions started for 2014-15 batch!!!!!
+						<br />
+						click here to download the application form
+					</marquee></a>
+				</div>
+
+			</div>
+		</div>
+
+		<div class="footer">
+			&#169; All rights reserved 2014
+			<br />
+			Designed And Developed By Department Of C.S.E @ 2010
+
+		</div>
+
+	</body>
+
+</html>
+

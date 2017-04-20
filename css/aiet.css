@@ -1,0 +1,420 @@
+.top
+{
+	background:#690a1a;
+}
+.logo
+{
+	 height:225px;
+	 width:100%;
+	
+}
+.logoImage
+{
+	width:80%;
+	margin:0 auto;
+}
+.navbar
+{
+	margin:0 auto;
+}
+.navMenu
+{
+	font-size: 13px;
+	/* border: 1px solid #d89b4b; */
+	line-height: 30px;
+	text-decoration: none;
+	color:rgba(61, 42, 17, 1);
+	padding-right: 10px;
+	text-align: center;
+}
+.navItems
+{
+	list-style-type: none;
+	display: inline-block;
+	color:#5F3A08;
+	text-align:center;
+	padding-left: 10px;
+	font-weight:bold;
+}
+/*.navMenu:hover
+{
+	background:#5F3A08;
+	color:white;
+	
+
+}
+.navItems:hover
+{
+	background:#5F3A08;
+
+}
+*/
+.navigation
+{
+	margin:0 auto;
+	background:#d89b4b;
+	width:80%;
+	border-bottom:2px solid #7C7019;
+	
+}
+.mainBody
+{
+	width:80%;
+	margin:2% auto;
+
+
+}
+.importantLinks
+{
+	width:21%;
+	float:left;
+}
+.bodyImage
+{
+	float: left;
+	width: 55%;
+	letter-spacing: 1px;
+	margin-left: 10px;
+	color: #565656;
+	margin-right:10px;
+}
+.bodyImage p
+{
+	text-align:justify;
+	font-size: 14px;
+	line-height: 1.4em;
+}
+.branchFacultyLink
+{
+	color:#690A1A;
+	text-decoration:none;
+	font-weight:bold;
+}
+
+.mainImage
+{
+	height:310px;
+	width:100%;
+}
+.links
+{
+	padding:0;
+	margin:0;
+}
+.links a
+{
+	text-decoration:none;
+}
+.itemList
+{
+	color: rgb(79, 79, 168);	
+	list-style-type: none;
+	font-size: 100%;
+	border-bottom:1px solid rgb(204, 198, 198);
+	padding:15px; 	
+	text-decoration:none;
+}
+.itemList:hover
+{
+	background: #ccc;
+}
+.inactiveLinks li
+{
+	color:#ccc;	
+}
+.clearfix:after 
+{
+    	content: ".";
+    	display: block;
+    	clear: both;
+    	visibility: hidden;
+   	 line-height: 0;
+    	height: 0;
+}
+ 
+
+ 
+html[xmlns] .clearfix 
+{
+    display: block;
+}
+ 
+* html .clearfix {
+    height: 1%;
+}
+.results
+{
+	line-height:25px;
+	margin-top:40px;
+}
+.footer
+{
+	width:100%;
+	text-align:center;
+	font-size:14px;
+	color:white;
+	background:#690a1a;
+	border-top:4px solid #d89b4b;
+	padding: 4% 0%;
+}
+.departments
+{
+	float:left;
+	width:21%;
+}
+.aboutus 
+{
+	letter-spacing: 1px;
+	text-align:justify;
+	font-size:16px;
+}
+
+body
+{
+	font-family:helvetica;
+
+}
+.aboutus h3
+{
+	color:#690a1a;
+}
+.departments h3
+{
+	padding-left:15px;
+}
+
+
+
+.ui-accordion-header
+{
+    font-size: 30px;
+
+}.
+.content p
+{
+	font-size:16px;
+} 
+.aboutus ul
+{
+	background:	#690A1A;	
+	border: none;
+}
+.aboutus p
+{
+	font-size:16px;
+}
+
+.menu p
+{
+	font-family:Helvetica;
+	font-size:15px;
+}
+.library img
+{
+	width: 100%;
+	height: 350px;
+}
+.dept 
+{
+	border:1px solid #F7EFEF;
+}
+.departments a
+{
+	text-decoration: none;
+}
+.dept p
+{
+	padding:0 12px;
+}
+.courses h6
+{
+	font-size: 16px;
+	
+}
+.courses a
+{
+	text-decoration: none;
+	color:rgb(54, 45, 45);
+}
+.courses a:hover
+{
+	color:#690a1a;
+}
+.bodyImage h3
+{
+	background:#690a1a;
+	border:7px solid #C53849;
+	color:#FFFFFF;
+	padding:5px;
+	text-align: center;
+}
+#acordionDecoration h3
+{
+	background: #d89b4b;
+	color:#690a1a;
+	border:2px solid #C53849;
+	text-align:left;
+}
+.top iframe
+{
+	
+	left: 20px;
+	
+}
+.principal h3
+{
+	background: none;
+	border:none;
+	color:#690A1A;
+	text-align:left;
+	font-size:14px;
+}
+.branchImage
+{
+	width:100%;
+	height:200px;
+}
+.admissionMarquee
+{
+	width:100%;
+	border: 1px solid #ccc;
+	margin:3%;
+	color: #690A1A;
+	background:#ccc;
+	height:100px;
+}
+.admissionMarquee a
+{
+	color:#690A1A;
+	
+}
+.courses{
+	background:#ccc;
+	color: rgb(54, 45, 45);
+}
+#tabs-1 th, #tabs-1 td,#tabs-1 table
+{
+	border:1px solid black;
+	border-collapse:collapse;
+
+}
+#tabs-1 table
+{
+	margin:0 auto;
+
+}
+#tabs-1 td
+{
+	padding:10px 30px;
+}
+#tabs-2 th, #tabs-2 td,#tabs-2 table
+{
+	border:1px solid black;
+	border-collapse:collapse;
+
+}
+#tabs-2 table
+{
+	margin:0 auto;
+
+}
+#tabs-2 td
+{
+	padding:10px 30px;
+}
+#tabs-3 th, #tabs-3 td,#tabs-3 table
+{
+	border:1px solid black;
+	border-collapse:collapse;
+
+}
+#tabs-3 table
+{
+	margin:0 auto;
+
+}
+#tabs-3 td
+{
+	padding:10px 30px;
+}
+#tabs-4 th, #tabs-4 td,#tabs-4 table
+{
+	border:1px solid black;
+	border-collapse:collapse;
+
+}
+#tabs-4 table
+{
+	margin:0 auto;
+
+}
+#tabs-4 td
+{
+	padding:10px 30px;
+}
+#tabs-5 th, #tabs-5 td,#tabs-5 table
+{
+	border:1px solid black;
+	border-collapse:collapse;
+
+}
+#tabs-5 table
+{
+	margin:0 auto;
+
+}
+#tabs-5 td
+{
+	padding:10px 30px;
+}
+#tabs-6 th, #tabs-6 td, #tabs-6 table
+{
+	border:1px solid black;
+	border-collapse:collapse;
+
+}
+#tabs-6 table
+{
+	margin:0 auto;
+
+}
+#tabs-6 td
+{
+	padding:10px 30px;
+}
+.placementCordinatorTable table, .placementCordinatorTable th, .placementCordinatorTable td
+{
+	border:1px solid black;
+	border-collapse:collapse;
+}
+.placementCordinatorTable td
+{
+	padding:10px 10px;
+}
+.placementCordinatorTable table
+{
+	margin:0 auto;
+}
+.bodyImage ul>li
+{
+	font-size:14px;
+}
+.ui-accordion-content
+{
+	height: 220px;
+	padding: 0em 2.2em !important;
+}
+.ui-accordion-content a
+{
+	text-decoration:none;
+	font-size:18px;
+}
+.ui-accordion-content a:hover
+{
+	color:#690A1A;
+}
+marquee
+{
+	height: 100px;
+}
+

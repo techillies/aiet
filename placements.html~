@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>APPA INSTITUTE OF ENGINEERING AND TECHNOLOGY,GULBARGA</title>
+
+		<meta charset="UTF-8">
+		<meta name="description" content="APPA INSTITUTE OF ENGINEERING AND TECHNOLOGY,GULBARGA ">
+		<meta name="keywords" content="admissions ,hostel facility,air conditioned class rooms, well experienced faculty">
+		<meta name="google-site-verification" content="xNUiYSJbb9j12M9aauES540ZQf1IVbxJqdx83TtfIlI" />
+
+		<link rel="stylesheet" href="css/aiet.css">
+
+		<link rel='stylesheet' type='text/css' href='css/jquery-ui.css'/>
+		<link rel="stylesheet" type="text/css" href="css/style.css">
+		<link rel="shortcut icon" href="images/lord.jpg" type="image/ico" />
+
+		<!-- Example assets -->
+		<link rel="stylesheet" type="text/css" href="css/jcarousel.basic.css">
+		<script type='text/javascript' src="js/jquery-1.11.1.min.js"></script>
+		<script src="js/jquery-ui.min.js"></script>
+		<script type='text/javascript' src='js/script.js'></script>
+		<script type="text/javascript" src="js/jquery.jcarousel.min.js"></script>
+		<script type="text/javascript" src="js/jcarousel.basic.js"></script>
+
+	</head>
+	<body>
+
+		<div class="top">
+
+			
+			<div class="logoImage">
+				<img class="logo" src="images/logo.jpg" alt="logo">
+			</div>
+
+			<div class="navigation">
+				<ul class="navbar">
+					<li class="navItems">
+						<a href="index.html" class="navMenu">HOME</a>
+					</li>
+					<li class="navItems">
+						<a href="aboutus.html" class="navMenu">ABOUT US</a>
+					</li>
+					<li class="navItems">
+						<a href="facilities.html" class="navMenu">FACILITIES</a>
+					</li>
+					<li class="navItems" id="courses">
+						<a href="courses.html" class="navMenu">COURSES</a>
+						<!--<ul class="subMenu">
+						<li class="ugpgMenu">undergraduate</li>
+						<li class="ugpgMenu">postgraduate</li>
+						</ul>-->
+					</li>
+					<li class="navItems">
+						<a href="placements.html" class="navMenu">PLACEMENTS</a>
+					</li>
+
+					<li class="navItems">
+						<a href="contactus.html" class="navMenu">CONTACT US</a>
+					</li>
+					<!--<li class="navItems">
+					<a href="facultyLogin.html" class="navMenu">FACULTY LOGIN</a>
+					</li>-->
+					<li class="navItems">
+						<a href="studentsLogin.html" class="navMenu">STUDENTS LOGIN</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<div class="mainBody clearfix">
+			<div class="importantLinks">
+				<ul class="links ">
+					<a href="importantLinks.html">
+					<li class="itemList">
+						Important links
+					</li></a>
+					<a href="rules.html">
+					<li class="itemList">
+						Rules and Regulations
+					</li></a>
+					<a href="admission.html">
+					<li class="itemList">
+						Admission
+					</li></a>
+					<a href="library.html">
+					<li class="itemList">
+						Library
+					</li></a>
+					<a href="prayaas.html">
+					<li class="itemList">
+						Events
+					</li></a>
+					<a href="principal.html">
+					<li class="itemList">
+						About Principal
+					</li></a>
+					<a href="faculty.html">
+					<li class="itemList">
+						Faculty
+					</li></a>
+					<a href="fee structure.pdf" target="_blank">
+					<li class="itemList">
+						Fee Structure
+					</li></a>
+
+				</ul>
+				<div class="results">
+					VTU RESULTS:
+					<form method="post" action="http://results.vtu.ac.in/vitavi.php" target="newtab">
+						USN
+						<br />
+						<input type="text" name="rid" placeholder="eg:3ae10cs021" style="width: 70%">
+						<br />
+						<input type="submit" value="submit">
+						<input type="reset" value="reset">
+					</form>
+				</div>
+			</div>
+			
+				<div class="bodyImage">
+					<h3> Placement Details </h3>
+					<p>
+					<br><b> About Training & Placement</b></br>
+						The Training and Placement cell provides the official support base for placement of Final year students. The support services that it offers are in the form of arranging campus interviews, grooming students to face the final test of their knowledge.
+
+The institute is equipped with a seminar hall for holding Pre-Placement Talk, rooms for conducting interviews. The Placement Office is computerized ;it uses desktop computer and Departmental Internet facility for placement data handling and communication. 
+
+The staff of the Placement cell include student representatives of various disciplines who form the 'Core Committee'. The 'Core Members' are headed by the Training and Placement Officer and together they manage the working of the cell.
+
+<br><b> Placement Activities </b></br>
+Invitations are sent to the prospective companies / organizations along with all relevant information to participate in the campus recruitment. Regular correspondence is maintained with various industries. Personal visits by the Training and Placement Officer, to companies also serves to build and maintain relations with the companies.
+	The cell maintains a branch-wise record of all current appearing student sin the Final Year through the collection of their resumes. Based on the requirements prescribed by the company, the eligible candidates are invited for appearing for the test/interviews that are conducted by the visiting companies.
+
+<br><b> Other Activites Include </b></br>
+(i). Conduction of IQ tests
+<br> (ii). Arrangement of Personality Development Workshops
+<br> (iii). Students trains students in aptitude tests, interview techniques, group discussions
+<br> (iv). Organizing industrial visits
+<br> (v). Guiding students wishing to pursue Higher Education
+
+The T&P cell looks after all arrangements to be made for the purpose of conducting campus interviews including everything from, the Pre-Placement Talk, to the written tests, to the final interviews.
+
+<b><br> Code of Conduct For Students </b></br>
+All students attending interviews are requested to keep in mind the following points without fail : 
+<br>(a) Report at the placement center 15 minutes before the interview starts. 
+<br>(b) Keep an updated copy of your resume with you. 
+<br>(c) Keep sufficient number of your documents/certificates /photographs (with spare copies)ready and arranged in order. 
+<br>(d) Unless specifically asked to report later, students waiting for their turn should wait patiently at the placement centre and not loiter about. You alone will be responsible if you miss your interview. 
+<br>(e) Present yourself in neat and pressed formal dress and polished formal shoes. Nails ought to be trimmed. 
+If a candidate who has forwarded his resume for a particular company decides not to appear for the test/interview, he/she should inform the placement center as soon as possible. This will not only enable the placement center to give an accurate estimate to the company of the number of people appearing, it will also help other students who would otherwise miss out on a good chance. 
+<br><b> Training and Placement Cell </b></br>
+
+Training and Placement cell is formed under the chairmanship and able guidance of Dr. V D Mytri, Principal of this institute, Dr. Anilkumar Bidve Dean of Administration, Dr. Basavaraj Mathapati Head of Computer Science & Engineering Department. He is also nodal officer Industry Institute Interaction cell under TPO.
+
+<br> <b>Placement Contact Details </br></b>
+Placement Nodel Officer : <b> Dr. Basavaraj Mathapati </b>
+<br> Email ID: <b> 
+placement@appaenggg.org </b>
+
+							<table class="placementCordinatorTable">
+								<tr>
+								<th>Sl.No</th>
+								<th>Name</th>
+								<th>Dept. Coordinator</th>
+                                				<th> Contact Number</th>
+							</tr>
+							<tr>
+								<td>1</td>
+								<td>Mr. Harish </td>
+								<td>MBA</td>
+                                        		        <td>9945678951 </td>
+							</tr>
+							<tr>
+								<td>2</td>
+								<td>Mr. Sanjeevkumar J </td>
+								<td>ECE</td>
+                                        		        <td> 7411234999</td>
+							</tr>
+							<tr>
+								<td>3</td>
+								<td>Mr. Shivakumar K. </td>
+								<td>CSE</td>
+                                            		        <td>9632574447</td>
+								
+							</tr>
+							<tr>
+								<td>4</td>
+								<td>Mr. Shivaprasad B. </td>
+								<td>ISE</td>
+                                		                <td>9632189999 </td>
+							</tr>
+							<tr>
+								<td>5</td>
+								<td>Mr. Santosh</td>
+								<td>MECH</td>
+                                            			<td> 9880886880</td>
+							</tr>
+							</table>
+				</div>
+
+				<div class="departments">
+					<h3>DEPARTMENTS</h3>
+					<ul class="links">
+						<a href="electronics.html">
+						<li class="itemList">
+							Electronics&Communications
+						</li></a>
+						<a href="computer.html">
+						<li class="itemList">
+							Computer Science
+						</li></a>
+						<a href="mechanical.html">
+						<li class="itemList">
+							Mechanical Engineering
+						</li></a>
+						<a href="information.html">
+						<li class="itemList">
+							Information Science
+						</li></a>
+						<a href="civil.html">
+						<li class="itemList">
+							Civil
+						</li></a>
+
+					</ul>
+					
+					<div class="admissionMarquee">
+						<a href="ADMISSION FORM BE.pdf" target="_blank">
+						<marquee  behavior="scroll" direction="down" scrollamount="4">
+							Admissions started for 2014-15 batch!!!!!
+							<br />
+							click here to download the application form
+						</marquee></a>
+					</div>
+					</div>
+				</div>
+			
+			
+			<div class="footer">
+				&#169; All rights reserved 2014
+				<br />
+				Designed And Developed By Department Of C.S.E @ 2010
+
+			</div>
+			<script type='text/javascript' src="js/jquery-1.11.1.min.js"></script>
+			<script src="js/jquery-ui.min.js"></script>
+			<script type='text/javascript' src='js/script.js'></script>
+			<script type="text/javascript" src="js/jquery.jcarousel.min.js"></script>
+			<script type="text/javascript" src="js/jcarousel.basic.js"></script>
+
+	</body>
+
+</html>

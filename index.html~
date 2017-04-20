@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>APPA INSTITUTE OF ENGINEERING AND TECHNOLOGY,GULBARGA</title>
+				
+
+		<meta charset="UTF-8">
+		<meta name="description" content="APPA INSTITUTE OF ENGINEERING AND TECHNOLOGY,GULBARGA ">
+		<meta name="keywords" content="admissions ,hostel facility,air conditioned class rooms, well experienced faculty">
+	</head>
+<body>
+	
+
+
+		<link rel="stylesheet" href="css/aiet.css">
+
+		<link rel='stylesheet' type='text/css' href='css/jquery-ui.css'/>
+		<link rel="stylesheet" type="text/css" href="css/style.css">
+
+		<!-- Example assets -->
+		<link rel="stylesheet" type="text/css" href="css/jcarousel.basic.css">
+		<script type='text/javascript' src="js/jquery-1.11.1.min.js"></script>
+		<script src="js/jquery-ui.min.js"></script>
+		<script type='text/javascript' src='js/script.js'></script>
+		<script type="text/javascript" src="js/jquery.jcarousel.min.js"></script>
+		<script type="text/javascript" src="js/jcarousel.basic.js"></script>
+
+	</head>
+	<body>
+
+		<div class="top">
+
+			<iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.itbizz.comule.com&amp;layout=button_count&amp;show_faces=true&amp;width=450&amp;action=like&amp;colorscheme=light&amp;height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:6%; height:23px;position: relative;top:10px;float:right;padding-right:3%; " allowTransparency="true"></iframe>
+			<style>
+				.fbook {
+					position: absolute;
+					font-color: #ddd;
+					top: -1668px;
+					font-size: 10;
+				}
+			</style></style><a href="http://www.liebes-film.de" class="fbook">festplatten test</a><a href="http://www.videobeamer24.de" class="fbook">beamer test</a><a href="http://www.howtoaddlikebutton.com" class="fbook">www.howtoaddlikebutton.com - facebook like button</a>
+			<style>
+				.fbook-style_map:initreaction:10false_attempt10-border
+			</style>
+			<div class="logoImage">
+				<img class="logo" src="images/logo.jpg" alt="logo">
+			</div>
+
+			<div class="navigation">
+				<ul class="navbar">
+					<li class="navItems">
+						<a href="index.html" class="navMenu">HOME</a>
+					</li>
+					<li class="navItems">
+						<a href="aboutus.html" class="navMenu">ABOUT US</a>
+					</li>
+					<li class="navItems">
+						<a href="facilities.html" class="navMenu">FACILITIES</a>
+					</li>
+					<li class="navItems" id="courses">
+						<a href="courses.html" class="navMenu">COURSES</a>
+						<!--<ul class="subMenu">
+						<li class="ugpgMenu">undergraduate</li>
+						<li class="ugpgMenu">postgraduate</li>
+						</ul>-->
+					</li>
+
+					<li class="navItems">
+						<a href="contactus.html" class="navMenu">CONTACTUS</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<div class="mainBody clearfix">
+			<div class="importantLinks">
+				<ul class="links ">
+					<a href="importantLinks.html">
+					<li class="itemList">
+						Important links
+					</li></a>
+					<a href="rules.html">
+					<li class="itemList">
+						Rules and Regulations
+					</li></a>
+					<a href="admission.html">
+					<li class="itemList">
+						Admission
+					</li></a>
+					<a href="library.html">
+					<li class="itemList">
+						Library
+					</li></a>
+					<a href="prayaas.html">
+					<li class="itemList">
+						Prayaas
+					</li></a>
+					<a href="principal.html">
+					<li class="itemList">
+						About Principal
+					</li></a>
+				</ul>
+				<div class="results">
+					VTU RESULTS:
+					<form method="post" action="http://results.vtu.ac.in/vitavi.php" target="newtab">
+						USN
+						<br />
+						<input type="text" name="rid" placeholder="eg:3ae10cs021" style="width: 70%">
+						<br />
+						<input type="submit" value="submit">
+						<input type="reset" value="reset">
+					</form>
+				</div>
+			</div>
+			<div class="bodyImage">
+				<div class="wrapper">
+
+					<div class="jcarousel-wrapper">
+						<div class="jcarousel">
+							<ul>
+								<li><img src="images/snapshot.jpg" width="602px" height="310px" alt="">
+								</li>
+								<li><img src="images/appajislideimage.jpg" width="602px" height="310px" alt="">
+								</li>
+								<li><img src="images/colgns2.jpg" width="602px" height="310px" alt="">
+								</li>
+								<li><img src="images/mech.jpg" width="602px" height="310px" alt="">
+								</li>
+								<li><img src="images/cse.jpg" width="602px" height="310px" alt="">
+								</li>
+								<li><img src="images/civil.jpg" width="602px" height="310px" alt="">
+								</li>
+							</ul>
+						</div>
+
+						<a href="#" class="jcarousel-control-prev">&lsaquo;</a>
+						<a href="#" class="jcarousel-control-next">&rsaquo;</a>
+
+						<p class="jcarousel-pagination">
+
+						</p>
+					</div>
+				</div>
+				<h3>Temple of Learning</h3>
+				<p>
+					With the vision and foresight of our President Parama Poojya Dr. Sharanabaswappa Appa, Mahadasoha Peetadhipati, Sharnbasaveshwar Samsthan, Gulbarga, who has 40 years of experience in the field of Education, our management is determined to serve to the cause of the growing fields of and proficient engineering graduates in this backward region of Karnataka state, by establishing a new engineering college namely "Appa Institute of Engineering and Technology" at Gulbarga. It has resolution to move ahead of the revolution that is taking place in the areas like computer Science Electrinics & Communication and Information Science, Electronics and Communication and Information Science.
+					<br/>
+					<br/>
+					Poojya Dr.Appaji proclaims to provide value based hi tech education. Today western countries like USA, Germeny, France and Asian countries like Japan, South Korea have become economically and industrially advanced by use of high technology. This high technology included super computer, Sallelites, Aeroplane, Weather Forecasting and Navigation etc. it is great pleasure to say that Karnataka is called <b>Silicon State</b> one among the world leaders because of advancement in Software Technology. Poojya Dr. Appaji is of the opinion that individuals, institutions and industrial development very much depends upon the adoption of high technology.
+					<br/>
+					<br/>
+					Rapid technological advancement and the digital and internet revolution under the present globalization scenario, promoted Poojya Dr. Appaji to open an Engineering and Technological institution to produce highly competent capable engineers to face the global challenges.
+				</p>
+			</div>
+
+			<div class="departments">
+				<h3>DEPARTMENTS</h3>
+				<ul class="links">
+					<a href="electronics.html">
+					<li class="itemList">
+						Electronics&Communications
+					</li></a>
+					<a href="computer.html">
+					<li class="itemList">
+						Computer Science
+					</li></a>
+					<a href="mechanical.html">
+					<li class="itemList">
+						Mechanical Engineering
+					</li></a>
+					<a href="information.html">
+					<li class="itemList">
+						Information Science
+					</li></a>
+					<a href="civil.html">
+					<li class="itemList">
+						Civil
+					</li></a>
+
+				</ul>
+				<div class="admissionMarquee">
+					<a href="ADMISSION FORM BE.pdf" target="_blank">
+					<marquee  behavior="scroll" direction="down" scrollamount="6">
+						Admissions started for 2014-15 batch!!!!!
+						<br />
+						click here to download the application form
+					</marquee></a>
+				</div>
+
+			</div>
+		</div>
+		<div class="footer">
+			&#169; All rights reserved 2014
+
+		</div>
+		<script type='text/javascript' src="js/jquery-1.11.1.min.js"></script>
+		<script src="js/jquery-ui.min.js"></script>
+		<script type='text/javascript' src='js/script.js'></script>
+		<script type="text/javascript" src="js/jquery.jcarousel.min.js"></script>
+		<script type="text/javascript" src="js/jcarousel.basic.js"></script>
+
+	</body>
+
+</html>
